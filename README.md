@@ -43,7 +43,7 @@ This repository contains a comprehensive collection of Python notebooks explorin
 
 ## 🛠️ Tools & Libraries
 
-- Python 3.x
+- Python 3.8
 - `scikit-learn`
 - `pandas`, `numpy`, `matplotlib`
 - `seaborn`, `scipy`
